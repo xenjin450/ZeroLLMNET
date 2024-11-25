@@ -1,4 +1,5 @@
 Video(POC): https://youtu.be/V3TV52ToNm4?si=Xb4ZU9wgF0yyjkbJ
+
 !(EDUCATIONAL PURPOSES ONLY)!
 -under restricted understanding,this tool should only be used for security-researchers to test LLM-BotNet capabilities on theyre own Local-Machines, any misuse and malicious-activities isnt of the support of the developer!
 
