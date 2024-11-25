@@ -7,7 +7,11 @@ Official Public AI LLM Chat Based BotNet for Security-Researchers and White Hat 
 #Installation
 
 1.Kali Linux System or Debian Linux based System, Windows works aswell.. if you know how to install NPM NodeJS.
-2. apt-get install npm 
+
+2. apt-get install npm
+ 
 3. npm install express && npm install axios && npm install readline && npm install cookie-parser
-4. npm init -y 
-5.node botnetprototype.js
+  
+4. npm init -y
+ 
+5. node botnetprototype.js
