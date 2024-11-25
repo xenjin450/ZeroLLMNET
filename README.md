@@ -15,3 +15,5 @@ Official Public AI LLM Chat Based BotNet for Security-Researchers and White Hat 
 4. npm init -y
  
 5. node botnetprototype.js
+
+#For making it Public,use https://serveo.net/ or create a AWS,Azure,GCP Cloud Instance with a (DNS) Domain. And forward the port 80 from botnetprototype.js NodeJS Server to that.
